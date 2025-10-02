@@ -30,6 +30,8 @@ Files are located under /UserRecognizerConsoleTestbed/src/HW2.
 ## Getting Started
 Clone the repository, Compile, Run in bash
 
+To clone:
+
 ```bash
 git clone https://github.com/kshin26/HW2.git
 
@@ -39,7 +41,7 @@ javac -d HW2/UserNameRecognizerConsoleTestbed/bin \
 
 ```
 
-After cloned, to run:
+After cloned, run:
 
 ```bash
 cd HW2/UserNameRecognizerConsoleTestbed
