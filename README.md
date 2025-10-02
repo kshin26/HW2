@@ -29,6 +29,7 @@ Files are located under /UserRecognizerConsoleTestbed/src/HW2.
 
 ## Getting Started
 Clone the repository, Compile, Run in bash
+
 Please run with these commands, not the ones in the assignment pdf
 
 To clone:
