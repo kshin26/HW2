@@ -38,3 +38,13 @@ javac -d HW2/UserNameRecognizerConsoleTestbed/bin \
   HW2/UserNameRecognizerConsoleTestbed/src/HW2/*.java
 
 java -cp bin HW2.HW2
+```
+
+After cloned, to run:
+
+```bash
+cd HW2/UserNameRecognizerConsoleTestbed
+
+javac -d bin src/userNameRecognizerTestbed/*.java src/HW2/*.java
+
+java -cp bin HW2.HW2
