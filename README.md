@@ -26,10 +26,10 @@ HW2 is a command-line Java application that manages a simple Q&A system. Users c
 13. Run Automated Test Cases
 
 ## Getting Started
-Clone the repository, Compile, Run
+Clone the repository, Compile, Run in bash
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kshin26/HW2.git
 
 javac -d HW2/UserNameRecognizerConsoleTestbed/bin \
   HW2/UserNameRecognizerConsoleTestbed/src/userNameRecognizerTestbed/*.java \
