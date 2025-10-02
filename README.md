@@ -26,7 +26,8 @@ HW2 is a command-line Java application that manages a simple Q&A system. Users c
 13. Run Automated Test Cases
 
 ## Getting Started
-1. Clone the repository:
+Clone the repository, Compile, Run
+
 ```bash
 git clone <repository-url>
 javac -d bin src/HW2/*.java
