@@ -31,6 +31,8 @@ Clone the repository, Compile, Run
 ```bash
 git clone <repository-url>
 
-javac -d HW2/UserNameRecognizerConsoleTestbed/bin \HW2/UserNameRecognizerConsoleTestbed/src/userNameRecognizerTestbed/*.java \HW2/UserNameRecognizerConsoleTestbed/src/HW2/*.java
+javac -d HW2/UserNameRecognizerConsoleTestbed/bin \
+  HW2/UserNameRecognizerConsoleTestbed/src/userNameRecognizerTestbed/*.java \
+  HW2/UserNameRecognizerConsoleTestbed/src/HW2/*.java
 
 java -cp bin HW2.HW2
