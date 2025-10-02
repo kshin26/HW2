@@ -35,10 +35,6 @@ To clone:
 ```bash
 git clone https://github.com/kshin26/HW2.git
 
-javac -d HW2/UserNameRecognizerConsoleTestbed/bin \
-  HW2/UserNameRecognizerConsoleTestbed/src/userNameRecognizerTestbed/*.java \
-  HW2/UserNameRecognizerConsoleTestbed/src/HW2/*.java
-
 ```
 
 After cloned, run:
