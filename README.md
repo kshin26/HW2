@@ -2,6 +2,8 @@
 
 ## Overview
 HW2 is a command-line Java application that manages a simple Q&A system. Users can create, read, update, delete, list, and search `Question` and `Answer` objects. It also includes automated test cases to verify all functionalities.
+Files are located under /UserRecognizerConsoleTestbed/src/HW2.
+/UserRecognizerTestbed is also included for username validation implementation.
 
 ## Features
 - CRUD operations for Questions and Answers
